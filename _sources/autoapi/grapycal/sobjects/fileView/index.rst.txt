@@ -1,0 +1,36 @@
+:py:mod:`grapycal.sobjects.fileView`
+====================================
+
+.. py:module:: grapycal.sobjects.fileView
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   grapycal.sobjects.fileView.FileView
+
+
+
+
+.. py:class:: FileView
+
+
+   Bases: :py:obj:`objectsync.SObject`
+
+   .. py:attribute:: frontend_type
+      :value: 'FileView'
+
+      
+
+   .. py:method:: init()
+
+
+   .. py:method:: ls(path)
+
+
+
